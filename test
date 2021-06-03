@@ -15,12 +15,12 @@
     "کد": "myket://comment?id\u003dنام پکیج برنامه تون"
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۴۴۰۰۰۳_0l6v.jpg",
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۴۴۰۰۰۳_x108.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/TywO2/vt/frame?isamp",
     "کد": "mailto:اینجا ایمیل خود را وارد کنید "
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۶۰۷۶۳۹_tgog.jpg",
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۶۰۷۶۳۹_whhg.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/gakOu/vt/frame?isamp",
     "کد": "BatteryManager bm \u003d (BatteryManager)getSystemService(BATTERY_SERVICE);\nint batLevel \u003d bm.getIntProperty(BatteryManager.BATTERY_PROPERTY_CAPACITY);\ntextview1.setText(Integer.toString(batLevel));"
   },
