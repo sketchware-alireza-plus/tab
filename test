@@ -1,16 +1,16 @@
 [
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۳۲۴۹۹۴_vvjb.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/obH4L/vt/frame?isamp",
     "کد": "\n💡 روشن\n android.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, true); } catch (android.hardware.camera2.CameraAccessException e) { }\n\n💡 خاموش\n\nandroid.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, false); } catch (android.hardware.camera2.CameraAccessException e) { }\n"
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۳۵۰۳۷۶_k3jv.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/GLYEk/vt/frame?isamp",
     "کد": ""
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۱۴۱۷۲۵۸_lkme.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/xD51E/vt/frame?isamp",
     "کد": "myket://comment?id\u003dنام پکیج برنامه تون"
   },
