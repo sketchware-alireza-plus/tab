@@ -75,17 +75,17 @@
     "کد": " this.getWindow().setFlags(WindowManager.LayoutParams.FLAG_SECURE, WindowManager.LayoutParams.FLAG_SECURE);"
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۴۳۶۸۵۳_8whq.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/arfuw/vt/frame?isamp",
     "کد": " in dialog in a project.\n\n final ProgressDialog prog \u003d new ProgressDialog(MainActivity.this);prog.setMax(100);prog.setTitle(\"متن بالای دیالوگ\");prog.setMessage(\"پیامتون\");prog.setIndeterminate(true);prog.setCancelable(false);prog.show();"
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۵۰۹۷۰۵_n0vw.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/IbiHJ/vt/frame?isamp",
     "کد": "sms:"
   },
   {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۲۵۴۳۵۷۵_zr46.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/Dkf91/vt/frame?isamp",
     "کد": "https://translate.google.com/?hl\u003dfa"
   },
