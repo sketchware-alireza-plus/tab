@@ -1,29 +1,47 @@
 [
   {
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
-    "متن": "اسکچور پلاس ",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/obH4L/vt/frame?isamp",
-    "کد": "myket://comment?id\u003dنام پکیج برنامه تون"
-  },
-  {
-    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
-    "متن": "علیرضا دهکار ",
-    "فیلم": "https://www.aparat.com/video/video/embed/videohash/06wDQ/vt/frame?isamp",
     "کد": "\n💡 روشن\n android.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, true); } catch (android.hardware.camera2.CameraAccessException e) { }\n\n💡 خاموش\n\nandroid.hardware.camera2.CameraManager cameraManager \u003d (android.hardware.camera2.CameraManager) getSystemService(Context.CAMERA_SERVICE);\ntry {\nString cameraId \u003d cameraManager.getCameraIdList()[0]; cameraManager.setTorchMode(cameraId, false); } catch (android.hardware.camera2.CameraAccessException e) { }\n"
   },
   {
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
-    "متن": "علیرضا ",
-    "فیلم": "https://www.aparat.com/video/video/embed/videohash/36FAY/vt/frame?isamp"
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/GLYEk/vt/frame?isamp",
+    "کد": ""
   },
   {
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
-    "متن": "سازنده",
-    "فیلم": "https://www.aparat.com/video/video/embed/videohash/WJcFb/vt/frame?isamp"
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/xD51E/vt/frame?isamp",
+    "کد": "myket://comment?id\u003dنام پکیج برنامه تون"
   },
   {
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
-    "متن": "پلاس",
-    "فیلم ": "https://www.aparat.com/video/video/embed/videohash/WJcFb/vt/frame?isamp"
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/TywO2/vt/frame?isamp",
+    "کد": "mailto:اینجا ایمیل خود را وارد کنید "
+  },
+  {
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/gakOu/vt/frame?isamp",
+    "کد": "BatteryManager bm \u003d (BatteryManager)getSystemService(BATTERY_SERVICE);\nint batLevel \u003d bm.getIntProperty(BatteryManager.BATTERY_PROPERTY_CAPACITY);\ntextview1.setText(Integer.toString(batLevel));"
+  },
+  {
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/FTEnj/vt/frame?isamp",
+    "کد": ""
+  },
+  {
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/06wDQ/vt/frame?isamp",
+    "کد": ""
+  },
+  {
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/wevgZ/vt/frame?isamp",
+    "کد": "android.graphics.drawable.GradientDrawable AA \u003d new android.graphics.drawable.GradientDrawable();\nAA.setColor(Color.parseColor(\"#FFFFFF\"));\nAA.setCornerRadii(new float[] { 50, 50, 50, 50, 50, 50, 50, 50 });\nbutton1.setBackground(AA);"
+  },
+  {
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۰۹۳۲۰۸۴۱۵_zzv.jpg",
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/mOzkT/vt/frame?isamp",
+    "کد": ""
   }
 ]
