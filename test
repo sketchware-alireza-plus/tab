@@ -138,5 +138,10 @@
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۳_۱۲۳۳۳۷۵۱۷_ntr7.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/6MJvj/vt/frame?isamp",
     "کد": "//by ezzex (check author)\n//works on API 1 or high\nIntent open_settings \u003d new Intent(android.provider.Settings.ACTION_SETTINGS);\nstartActivity(open_settings);"
+  },
+  {
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۴_۲۰۰۳۱۰۰۸۹_ncv4.jpg",
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/fvinC/vt/frame?isamp",
+    "کد": "getWindow().getDecorView()\n.setSystemUiVisibility(\nView.SYSTEM_UI_FLAG_HIDE_NAVIGATION | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY\n);\n\n//mode by Sketchware plus\n"
   }
 ]
