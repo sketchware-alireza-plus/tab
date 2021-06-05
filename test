@@ -143,5 +143,10 @@
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۴_۲۰۰۳۱۰۰۸۹_ncv4.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/fvinC/vt/frame?isamp",
     "کد": "getWindow().getDecorView()\n.setSystemUiVisibility(\nView.SYSTEM_UI_FLAG_HIDE_NAVIGATION | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY\n);\n\n//mode by Sketchware plus\n"
+  },
+  {
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۴_۲۰۰۴۲۹۴۶۱_cq2.jpg",
+    "فیلم": "https://www.aparat.com/video/video/embed/videohash/V1gb2/vt/frame?isamp",
+    "کد": "\"file:///android_asset/نام گیف\""
   }
 ]
