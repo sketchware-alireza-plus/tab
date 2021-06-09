@@ -168,5 +168,10 @@
     "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۷_۲۱۲۰۱۵۱۴۷_xkc.jpg",
     "فیلم": "https://www.aparat.com/video/video/embed/videohash/NrR6P/vt/frame?isamp",
     "کد": "\n_fab.setBackgroundTintList(android.content.res.ColorStateList.valueOf(Color.parseColor(\"0xFFE91900\".replace(\"0xFF\" , \"#\"))));"
+  },
+  {
+    "عکس": "https://s4.uupload.ir/files/inshot_۲۰۲۱۰۶۰۹_۱۷۳۶۵۲۳۲۰_9aqg.jpg",
+    "فیلم ": "https://www.aparat.com/video/video/embed/videohash/woiN1/vt/frame?isamp",
+    "کد": ""
   }
 ]
